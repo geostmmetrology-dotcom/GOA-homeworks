@@ -1,2 +1,5 @@
 print("natalia sidamonidze")
 print("This is day 1")
+name=("natalia sidamonidze")
+num1=("8+7")
+num2=("10-6")
