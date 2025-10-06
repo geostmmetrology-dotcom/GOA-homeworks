@@ -1,0 +1,5 @@
+print(5+6)
+print(10-2.5)
+print(5*3)
+print(11/5)
+print(20//2)
